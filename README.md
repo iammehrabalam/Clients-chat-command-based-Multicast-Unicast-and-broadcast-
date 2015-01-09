@@ -1,6 +1,6 @@
 #Clients chat (command based Multicast,Unicast and broadcast)
 
-This is a simple command based chatting program amoung client(s)
+This is a simple command based chatting program among client(s)
 
 ##How to use
 
